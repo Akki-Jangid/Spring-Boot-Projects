@@ -1,0 +1,37 @@
+banking-application/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── banking/
+│   │   │           ├── controller/            # Controllers for handling REST requests
+│   │   │           ├── model/                 # Entity classes (User, Account, Transaction, Bank, etc.)
+│   │   │           ├── repository/            # Repository interfaces for database interactions
+│   │   │           ├── service/               # Business logic services
+│   │   │           ├── dto/                   # Data Transfer Objects (DTOs)
+│   │   │           ├── security/              # Spring Security configurations (JWT filters, SecurityConfig)
+│   │   │           ├── util/                  # Utility classes (e.g., for encryption, validation)
+│   │   │           └── exception/             # Custom exceptions and global exception handling
+│   │   └── resources/
+│   │       ├── application.properties         # Configuration properties
+│   │       └── templates/                     # HTML templates (if using Thymeleaf)
+│   └── test/
+│       └── java/
+│           └── com/
+│               └── banking/
+│                   ├── controller/            # Test cases for controllers
+│                   ├── service/               # Test cases for services
+│                   └── repository/            # Test cases for repositories
+│
+├── pom.xml                                     # Maven dependencies
+├── README.md                                   # Project documentation
+└── .gitignore                                  # Git ignore file
+
+
+
+
+util/:
+
+Create utility classes for common functionalities like encryption, token generation, etc.
+Example: PasswordUtil, TokenUtil
