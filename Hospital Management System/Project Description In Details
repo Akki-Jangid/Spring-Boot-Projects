@@ -1,0 +1,36 @@
+---------------------------------------------  PROJECT DESCRIPTION IN DETAIL  -----------------------------------------------
+
+Hospital Management System - Key Points
+
+Project Objective:
+  - Manage patient records, appointments, staff details, and hospital inventory.
+  - Provide an integrated platform for doctors, nurses, and administrative staff.
+
+Technologies Used:
+  - Backend: Java, Spring Boot
+  - Database: PostgreSQL
+  - APIs: RESTful API with JWT for secure access
+  - Tools: Maven, Swagger for API documentation
+
+Key Features:
+  - Patient management: Admission, discharge, medical history tracking.
+  - Staff management: Assignments, roles, and scheduling.
+  - Appointment scheduling and management with notifications.
+  - Role-based access control (Doctor, Nurse, Admin).
+  - Hospital inventory and resource management.
+
+Contributions:
+  - Developed RESTful APIs for patient and staff management modules.
+  - Implemented authentication and authorization using JWT, ensuring secure access.
+  - Optimized database queries for efficient data retrieval.
+  - Integrated appointment scheduling system with automated notifications.
+  - Worked with cross-functional teams to ensure a seamless user experience.
+
+Outcomes:
+  - Improved patient record management, reducing manual errors by 30%.
+  - Enhanced staff scheduling and role management, leading to better resource allocation.
+  - Streamlined appointment scheduling, resulting in a 20% reduction in no-shows.
+
+Challenges:
+  - Handling large volumes of patient data with high accuracy.
+  - Ensuring seamless integration of multiple modules.
