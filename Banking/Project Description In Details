@@ -1,0 +1,36 @@
+-------------------------------------------------  PROJECT DESCRIPTION IN DETAIL  -------------------------------------------
+
+Banking Management System - Key Points
+
+Project Objective:
+  - Manage customer accounts, transactions, loans, and payments.
+  - Provide a secure and efficient banking platform for users.
+
+Technologies Used:
+  - Backend: Java, Spring Boot, Hibernate
+  - Database: PostgreSQL
+  - APIs: RESTful API design with JWT for security
+  - Tools: Maven, Swagger for API documentation
+
+Key Features:
+  - Account management: Opening, closing, and updating accounts.
+  - Transaction management: Deposits, withdrawals, transfers, and history tracking.
+  - Loan management: Loan application, approval, repayment schedule, and interest calculation.
+  - Role-based access control (Admin, User).
+  - Transaction and loan history with detailed reporting.
+
+Contributions:
+  - Developed core banking functionalities, including account and transaction management.
+  - Implemented loan management features with automated interest calculations.
+  - Ensured secure API access through JWT-based authentication and role-based control.
+  - Optimized database queries for faster transaction processing.
+  - Collaborated with front-end developers for UI integration and user-friendly interfaces.
+
+Outcomes:
+  - Improved transaction processing time by 20%, enhancing user experience.
+  - Streamlined loan management, reducing manual processing efforts.
+  - Increased security with robust authentication and authorization mechanisms.
+
+Challenges:
+  - Ensuring data accuracy and security during high-volume transactions.
+  - Automating complex interest calculations and loan repayment schedules.
